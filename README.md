@@ -1,4 +1,4 @@
-# 📚 Next Book Rental
+# 📚 Ferreira Books
 
 Este é um projeto em **Next.js + TypeScript** para locação de livros,
 utilizando a **Open Library API** para busca e detalhes dos livros.  
