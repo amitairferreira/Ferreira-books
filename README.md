@@ -24,7 +24,7 @@ O projeto segue os requisitos da task final:
 ## 📂 Estrutura de pastas
 
 ```
-next-book-rental/
+Ferreira-books/
 │── app/              # Rotas e páginas
 │── components/       # Componentes de UI (Header, Footer, Navbar, BookCard)
 │── store/            # Redux Toolkit + RTK Query
